@@ -1,0 +1,13 @@
+Part A Verification
+
+Python sanity check:
+AC Repair & Service — count 4, total ₹4,375
+Plumbing — count 4, total ₹4,079
+Salon for Men — count 4, total ₹4,086
+
+SQL cross-check:
+AC Repair & Service — count 4, total ₹4,375
+Plumbing — count 4, total ₹4,079
+Salon for Men — count 4, total ₹4,086
+
+The SQL result matches the pure-Python result exactly for all three categories.
